@@ -1,0 +1,17 @@
+Time values for C++ :
+	 50 000
+		3 369.906 msec		3 433.725 msec		3 379.129 msec	
+	100 000
+		13 102.573 msec		12 953.5985 msec		12 836.68 msec
+	500 000
+		337 269.888 msec	340 054.956 msec
+Time values for Python :
+	 50 000
+		134 772.781 msec
+Time values for Java :
+	 50 000
+		3 475 530.507 msec	 3 353 391.549 msec	 3 335 479.429 msec
+	100 000
+	   13 406 810.832 msec	13 585 461.822 msec 13 320 128.771 msec
+	500 000
+	  338 692 173.555 msec
